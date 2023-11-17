@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: o;
+    box-sizing: border-box;
+}
+header{
+    width: 100;
+    background-color: blue;
+    display: flex;
+    align-flex: ;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0px;
+}
+.logo-imagem{
+    width: 100px;
+    height: 50px;
+    background-color:none;
+    border-radius: 25;
+}
+.container-logo{ 
+    display: flex;
+align-items: center;
+}
+.container-logo{
+    margin-left: 150px; 
+color:white;
+}
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 25px 25px;
+    border-radius: 10px 25px;
+}
+.menu li a :hover{
+    background-color:red 0 8;
+}
